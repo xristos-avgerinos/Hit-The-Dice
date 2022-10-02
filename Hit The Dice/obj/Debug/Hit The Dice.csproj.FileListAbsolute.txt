@@ -1,0 +1,13 @@
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\bin\Debug\Hit The Dice.exe.config
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\bin\Debug\Hit The Dice.exe
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\bin\Debug\Hit The Dice.pdb
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\obj\Debug\Hit The Dice.csprojAssemblyReference.cache
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\obj\Debug\Hit_The_Dice.Form1.resources
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\obj\Debug\Hit_The_Dice.Properties.Resources.resources
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\obj\Debug\Hit The Dice.csproj.GenerateResource.cache
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\obj\Debug\Hit The Dice.csproj.CoreCompileInputs.cache
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\obj\Debug\Hit The Dice.exe
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\obj\Debug\Hit The Dice.pdb
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\obj\Debug\Hit_The_Dice.Form2.resources
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\obj\Debug\Hit_The_Dice.Form3.resources
+C:\VisualStudio\source\repos\Hit The Dice\Hit The Dice\obj\Debug\Hit_The_Dice.Form4.resources
